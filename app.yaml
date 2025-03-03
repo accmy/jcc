@@ -1,8 +1,6 @@
 kind: wasmer.io/App.v0
-name: APP_NAME
-owner: YOUR_USERNAME
+name: php-starter
+owner: wasmer-examples
 package: .
-domains:
-- APP_NAME.tiiny.io
 scaling:
   mode: single_concurrency
